@@ -1,1 +1,2 @@
 # ECG-meet-BLE
+This repository is tracking my progress in developing an efficient protocol for sending ECG data through BLE advertisements. I'm targeting BLE advertisements due to their versatility, energy efficiency, and simplicity.
